@@ -1,0 +1,751 @@
+/* CSS Buttons */
+/* NARROW BUTTONS */
+.nsgb{
+    width:100px;
+    height:40px;
+    background-color:#696969;
+    box-shadow:3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nsgb:hover{
+	background-color:#808080;
+	cursor:pointer;
+}
+
+.nsrb{
+    width:100px;
+    height:40px;
+    background-color:#b22222;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nsrb:hover{
+	background-color:#8b0000;
+	cursor:pointer;
+}
+
+.nspb{
+    width:100px;
+    height:40px;
+    background-color:#ff1493;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nspb:hover{
+	background-color:#ed2690;
+	cursor:pointer;
+}
+
+.nsbb{
+    width:100px;
+    height:40px;
+    background-color:#0066cc;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nsbb:hover{
+	background-color:#1e90ff;
+	cursor:pointer;
+}
+
+.nsorb{
+    width:100px;
+    height:40px;
+    background-color:#ff8c00;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.nsorb:hover{
+    background-color:#ffa500;
+    cursor:pointer;
+}
+
+.nsbrb{
+    width:100px;
+    height:40px;
+    background-color:#8b4513;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.nsbrb:hover{
+    background-color:#cd853f;
+    cursor:pointer;
+}
+
+.nsgrb{
+    width:100px;
+    height:40px;
+    background-color:#006400;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;  
+}
+.nsgrb:hover{
+    background-color:#008000;
+    cursor:pointer;
+}
+
+.nsdb{
+    width:100px;
+    height:40px;
+    background-color:#000000;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nsdb:hover{
+	background-color: #262626;
+	cursor:pointer;
+}
+
+
+.nmgb{
+    width:200px;
+    height:50px;
+    background-color:#696969;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nmgb:hover{
+	background-color: #808080;
+	cursor:pointer;
+}
+
+.nmrb{
+    width:200px;
+    height:50px;
+    background-color:#b22222;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nmrb:hover{
+	background-color: #8b0000;
+	cursor:pointer;
+}
+
+.nmpb{
+    width:200px;
+    height:50px;
+    background-color:#ff1493;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nmpb:hover{
+	background-color:#ed2690;
+	cursor:pointer;
+}
+
+.nmbb{
+    width:200px;
+    height:50px;
+    background-color:#0066cc;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nmbb:hover{
+	background-color:#1e90ff;
+	cursor:pointer;
+}
+
+.nmorb{
+    width:200px;
+    height:50px;
+    background-color:#ff8c00;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.nmorb:hover{
+    background-color:#ffa500;
+    cursor:pointer;
+}
+
+.nmbrb{
+    width:200px;
+    height:50px;
+    background-color:#8b4513;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.nmbrb:hover{
+    background-color:#cd853f;
+    cursor:pointer;
+}
+
+.nmgrb{
+    width:200px;
+    height:50px;
+    background-color:#006400;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.nmgrb:hover{
+    background-color:#008000;
+    cursor:pointer;
+}
+
+.nmdb{
+    width:200px;
+    height:50px;
+    background-color:#000000;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nmdb:hover{
+	background-color: #262626;
+	cursor:pointer;
+}
+
+
+.nlgb{
+    width:400px;
+    height:50px;
+    background-color:#696969;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nlgb:hover{
+	background-color: #808080;
+	cursor:pointer;
+}
+
+.nlrb{
+    width:400px;
+    height:50px;
+    background-color:#b22222;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nlrb:hover{
+	background-color: #8b0000;
+	cursor:pointer;
+}
+
+.nlpb{
+    width:400px;
+    height:50px;
+    background-color:#ff1493;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nlpb:hover{
+	background-color:#ed2690;
+	cursor:pointer;
+}
+
+.nlbb{
+    width:400px;
+    height:50px;
+    background-color:#0066cc;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nlbb:hover{
+	background-color:#1e90ff;
+	cursor:pointer;
+}
+
+.nlorb{
+    width:400px;
+    height:50px;
+    background-color:#ff8c00;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.nlorb:hover{
+    background-color:#ffa500;
+    cursor:pointer;
+}
+
+.nlbrb{
+    width:400px;
+    height:50px;
+    background-color:#8b4513;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.nlbrb:hover{
+    background-color:#cd853f;
+    cursor:pointer;
+}
+
+.nlgrb{
+    width:400px;
+    height:50px;
+    background-color:#006400;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.nlgrb:hover{
+    background-color:#008000;
+    cursor:pointer;
+}
+
+.nldb{
+
+    width:400px;
+    height:50px;
+    background-color:#000000;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.nldb:hover{
+	background-color: #262626;
+	cursor:pointer;
+}
+
+
+/*SQUARE BUTTONS*/
+.sgb{
+    width:70px;
+    height:70px;
+    background-color:#696969;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.sgb:hover{
+    background-color:#808080;
+    cursor:pointer;
+}
+
+.srb{
+    width:70px;
+    height:70px;
+    background-color:#b22222;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.srb:hover{
+    background-color:#8b0000;
+    cursor:pointer;
+}
+
+.spb{
+    width:70px;
+    height:70px;
+    background-color:#ff1493;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.spb:hover{
+	background-color:#ed2690;
+	cursor:pointer;
+}
+
+.sbb{
+    width:70px;
+    height:70px;
+    background-color:#0066cc;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.sbb:hover{
+    background-color:#1e90ff;
+    cursor:pointer;
+}
+
+.sorb{
+    width:70px;
+    height:70px;
+    background-color:#ff8c00;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.sorb:hover{
+    background-color:#ffa500;
+    cursor:pointer;
+}
+
+.sbrb{
+    width:70px;
+    height:70px;
+    background-color:#8b4513;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.sbrb:hover{
+    background-color:#cd853f;
+    cursor:pointer;
+}
+
+.sgrb{
+    width:70px;
+    height:70px;
+    background-color:#006400;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.sgrb:hover{
+    background-color:#008000;
+    cursor:pointer;
+}
+
+.sdb{
+    width:70px;
+    height:70px;
+    background-color:#000000;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.sdb:hover{
+    background-color:#262626;
+    cursor:pointer;
+}
+
+/* RECTANGULAR BUTTONS */
+.rtgb{
+    width:100px;
+    height:60px;
+    background-color:#696969;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.rtgb:hover{
+    background-color:#808080;
+    cursor:pointer;
+}
+
+.rtrb{
+    width:100px;
+    height:60px;
+    background-color:#b22222;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.rtrb:hover{
+    background-color:#8b0000;
+    cursor:pointer;
+}
+
+.rtpb{
+    width:100px;
+    height:60px;
+    background-color:#ff1493;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.rtpb:hover{
+	background-color:#ed2690;
+	cursor:pointer;
+}
+
+.rtbb{
+    width:100px;
+    height:60px;
+    background-color:#0066cc;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.rtbb:hover{
+    background-color:#1e90ff;
+    cursor:pointer;
+}
+
+.rtorb{
+    width:100px;
+    height:60px;
+    background-color:#ff8c00;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.rtorb:hover{
+    background-color:#ffa500;
+    cursor:pointer;
+}
+
+.rtbrb{
+    width:100px;
+    height:60px;
+    background-color:#8b4513;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.rtbrb:hover{
+    background-color:#cd853f;
+    cursor:pointer;
+}
+
+.rtgrb{
+    width:100px;
+    height:60px;
+    background-color:#006400;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.rtgrb:hover{
+    background-color:#008000;
+    cursor:pointer;
+}
+
+.rtdb{
+    width:100px;
+    height:60px;
+    background-color:#000000;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.rtdb:hover{
+    background-color:#262626;
+    cursor:pointer;
+}
+
+/* ROUNDED BUTTONS */
+.rdgb{
+    width:100px;
+    height:60px;
+    background-color:#696969;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+    border-radius:100px;
+}
+.rdgb:hover{
+    background-color:#808080;
+}
+
+.rdrb{
+    width:100px;
+    height:60px;
+    background-color:#b22222;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+    border-radius:100px;
+}
+.rdrb:hover{
+    background-color:#8b0000;
+    cursor:pointer;
+}
+
+.rdpb{
+    width:100px;
+    height:60px;
+    background-color:#ff1493;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+    border-radius:100px;
+}
+.rdpb:hover{
+	background-color:#ed2690;
+	cursor:pointer;
+}
+
+.rdbb{
+    width:100px;
+    height:60px;
+    background-color:#0066cc;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+    border-radius:100px;
+}
+.rdbb:hover{
+    background-color:#1e90ff;
+    cursor:pointer;
+}
+
+.rdorb{
+    width:100px;
+    height:60px;
+    background-color:#ff8c00;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+    border-radius:100px;
+}
+.rdorb:hover{
+    background-color:#ffa500;
+    cursor:pointer;
+}
+
+.rdbrb{
+    width:100px;
+    height:60px;
+    background-color:#8b4513;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+    border-radius:100px;
+}
+.rodbrb:hover{
+    background-color:#cd853f;
+    cursor:pointer;
+}
+
+.rdgrb{
+    width:100px;
+    height:60px;
+    background-color:#006400;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+    border-radius:100px;
+}
+.rdgrb:hover{
+    background-color:#008000;
+    cursor:pointer;
+}
+
+.rddb{
+    width:100px;
+    height:60px;
+    background-color:#000000;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+    border-radius:100px;
+}
+.rddb:hover{
+    background-color:#262626;
+    cursor:pointer;
+}
+
+/* BIG BUTTONS */
+.bggb{
+  width:200px;
+  height:75px;
+  background-color:#696969;
+  font-weight:bold;
+  color:white;
+  box-shadow: 3px 3px 3px #999999;
+  font-weight:bold;
+
+}
+.bggb:hover{
+	background-color: #808080;
+	cursor:pointer;
+}
+
+.bgrb{
+    width:200px;
+    height:75px;
+    background-color:#b22222;
+    font-weight:bold;
+    color:white;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+}
+.bgrb:hover{
+	background-color:#8b0000;
+	cursor:pointer;
+}
+
+.bgpb{
+    width:200px;
+    height:75px;
+    background-color:#ff1493;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+    color:white;
+}
+.bgpb:hover{
+	background-color:#ed2690;
+	cursor:pointer;
+}
+
+.bgbb{
+    width:200px;
+    height:75px;
+    background-color:#0066cc;
+    font-weight:bold;
+    color:white;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+}
+.bgbb:hover{
+	background-color: #1e90ff;
+	cursor:pointer;
+}
+
+.bgorb{
+    width:200px;
+    height:75px;
+    background-color:#ff8c00;
+    font-weight:bold;
+    color:white;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+}
+.bgorb:hover{
+	background-color: #ffa500;
+	cursor:pointer;
+}
+
+.bgbrb{
+    width:200px;
+    height:75px;
+    background-color:#8b4513;
+    font-weight:bold;
+    color:white;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+}
+.bgbrb:hover{
+	background-color:#cd853f;
+	cursor:pointer;
+}
+
+.bggrb{
+    width:200px;
+    height:75px;
+    background-color:#006400;
+    font-weight:bold;
+    color:white;
+    box-shadow: 3px 3px 3px #999999;
+    font-weight:bold;
+}
+.bggrb:hover{
+	background-color:#008000;
+	cursor:pointer;
+}
+
+.bgdb{
+    width:200px;
+    height:75px;
+    background-color:#000000;
+    font-weight:bold;
+    color:white;
+    box-shadow:3px 3px 3px #999999;
+}
+.bgdb:hover{
+    background-color:#262626;
+    cursor:pointer;
+}

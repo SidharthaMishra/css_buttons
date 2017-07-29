@@ -1,0 +1,17 @@
+body{
+	background-color:#ffffff;
+    text-align:center;
+}
+h1{
+	text-align:center;
+	color:#003366;
+	font-weight:bold;
+	text-shadow:1px 1px 1px;
+    display:block;
+    clear:both;
+}
+.container{
+	display:block;
+    clear:both;
+}
+
