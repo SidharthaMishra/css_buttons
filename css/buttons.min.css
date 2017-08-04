@@ -1,0 +1,112 @@
+.nsgb{width:100px;height:40px;background-color:#696969;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nsgb:hover{background-color:gray;cursor:pointer}
+.nsrb{width:100px;height:40px;background-color:#b22222;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nsrb:hover{background-color:#8b0000;cursor:pointer}
+.nspb{width:100px;height:40px;background-color:#ff1493;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nspb:hover{background-color:#ed2690;cursor:pointer}
+.nsbb{width:100px;height:40px;background-color:#06c;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nsbb:hover{background-color:#1e90ff;cursor:pointer}
+.nsorb{width:100px;height:40px;background-color:#ff8c00;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nsorb:hover{background-color:orange;cursor:pointer}
+.nsbrb{width:100px;height:40px;background-color:#8b4513;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nsbrb:hover{background-color:peru;cursor:pointer}
+.nsgrb{width:100px;height:40px;background-color:#006400;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nsgrb:hover{background-color:green;cursor:pointer}
+.nsdb{width:100px;height:40px;background-color:#000;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nsdb:hover{background-color:#262626;cursor:pointer}
+.nmgb{width:200px;height:50px;background-color:#696969;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nmgb:hover{background-color:gray;cursor:pointer}
+.nmrb{width:200px;height:50px;background-color:#b22222;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nmrb:hover{background-color:#8b0000;cursor:pointer}
+.nmpb{width:200px;height:50px;background-color:#ff1493;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nmpb:hover{background-color:#ed2690;cursor:pointer}
+.nmbb{width:200px;height:50px;background-color:#06c;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nmbb:hover{background-color:#1e90ff;cursor:pointer}
+.nmorb{width:200px;height:50px;background-color:#ff8c00;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nmorb:hover{background-color:orange;cursor:pointer}
+.nmbrb{width:200px;height:50px;background-color:#8b4513;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nmbrb:hover{background-color:peru;cursor:pointer}
+.nmgrb{width:200px;height:50px;background-color:#006400;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nmgrb:hover{background-color:green;cursor:pointer}
+.nmdb{width:200px;height:50px;background-color:#000;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nmdb:hover{background-color:#262626;cursor:pointer}
+.nlgb{width:400px;height:50px;background-color:#696969;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nlgb:hover{background-color:gray;cursor:pointer}
+.nlrb{width:400px;height:50px;background-color:#b22222;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nlrb:hover{background-color:#8b0000;cursor:pointer}
+.nlpb{width:400px;height:50px;background-color:#ff1493;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nlpb:hover{background-color:#ed2690;cursor:pointer}
+.nlbb{width:400px;height:50px;background-color:#06c;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nlbb:hover{background-color:#1e90ff;cursor:pointer}
+.nlorb{width:400px;height:50px;background-color:#ff8c00;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nlorb:hover{background-color:orange;cursor:pointer}
+.nlbrb{width:400px;height:50px;background-color:#8b4513;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nlbrb:hover{background-color:peru;cursor:pointer}
+.nlgrb{width:400px;height:50px;background-color:#006400;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.nlgrb:hover{background-color:green;cursor:pointer}
+.nldb{width:400px;height:50px;background-color:#000;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.nldb:hover{background-color:#262626;cursor:pointer}
+.sgb{width:70px;height:70px;background-color:#696969;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.sgb:hover{background-color:gray;cursor:pointer}
+.srb{width:70px;height:70px;background-color:#b22222;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.srb:hover{background-color:#8b0000;cursor:pointer}
+.spb{width:70px;height:70px;background-color:#ff1493;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.spb:hover{background-color:#ed2690;cursor:pointer}
+.sbb{width:70px;height:70px;background-color:#06c;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.sbb:hover{background-color:#1e90ff;cursor:pointer}
+.sorb{width:70px;height:70px;background-color:#ff8c00;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.sorb:hover{background-color:orange;cursor:pointer}
+.sbrb{width:70px;height:70px;background-color:#8b4513;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.sbrb:hover{background-color:peru;cursor:pointer}
+.sgrb{width:70px;height:70px;background-color:#006400;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.sgrb:hover{background-color:green;cursor:pointer}
+.sdb{width:70px;height:70px;background-color:#000;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.sdb:hover{background-color:#262626;cursor:pointer}
+.rtgb{width:100px;height:60px;background-color:#696969;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.rtgb:hover{background-color:gray;cursor:pointer}
+.rtrb{width:100px;height:60px;background-color:#b22222;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.rtrb:hover{background-color:#8b0000;cursor:pointer}
+.rtpb{width:100px;height:60px;background-color:#ff1493;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.rtpb:hover{background-color:#ed2690;cursor:pointer}
+.rtbb{width:100px;height:60px;background-color:#06c;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.rtbb:hover{background-color:#1e90ff;cursor:pointer}
+.rtorb{width:100px;height:60px;background-color:#ff8c00;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.rtorb:hover{background-color:orange;cursor:pointer}
+.rtbrb{width:100px;height:60px;background-color:#8b4513;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.rtbrb:hover{background-color:peru;cursor:pointer}
+.rtgrb{width:100px;height:60px;background-color:#006400;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.rtgrb:hover{background-color:green;cursor:pointer}
+.rtdb{width:100px;height:60px;background-color:#000;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.rtdb:hover{background-color:#262626;cursor:pointer}
+.rdgb{width:100px;height:60px;background-color:#696969;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999;border-radius:100px}
+.rdgb:hover{background-color:gray}
+.rdrb{width:100px;height:60px;background-color:#b22222;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999;border-radius:100px}
+.rdrb:hover{background-color:#8b0000;cursor:pointer}
+.rdpb{width:100px;height:60px;background-color:#ff1493;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff;border-radius:100px}
+.rdpb:hover{background-color:#ed2690;cursor:pointer}
+.rdbb{width:100px;height:60px;background-color:#06c;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999;border-radius:100px}
+.rdbb:hover{background-color:#1e90ff;cursor:pointer}
+.rdorb{width:100px;height:60px;background-color:#ff8c00;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999;border-radius:100px}
+.rdorb:hover{background-color:orange;cursor:pointer}
+.rdbrb{width:100px;height:60px;background-color:#8b4513;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999;border-radius:100px}
+.rodbrb:hover{background-color:peru;cursor:pointer}
+.rdgrb{width:100px;height:60px;background-color:#006400;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999;border-radius:100px}
+.rdgrb:hover{background-color:green;cursor:pointer}
+.rddb{width:100px;height:60px;background-color:#000;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999;border-radius:100px}
+.rddb:hover{background-color:#262626;cursor:pointer}
+.bggb{width:200px;height:75px;background-color:#696969;color:#fff;box-shadow:3px 3px 3px #999;font-weight:700}
+.bggb:hover{background-color:gray;cursor:pointer}
+.bgrb{width:200px;height:75px;background-color:#b22222;color:#fff;box-shadow:3px 3px 3px #999;font-weight:700}
+.bgrb:hover{background-color:#8b0000;cursor:pointer}
+.bgpb{width:200px;height:75px;background-color:#ff1493;box-shadow:3px 3px 3px #999;font-weight:700;color:#fff}
+.bgpb:hover{background-color:#ed2690;cursor:pointer}
+.bgbb{width:200px;height:75px;background-color:#06c;color:#fff;box-shadow:3px 3px 3px #999;font-weight:700}
+.bgbb:hover{background-color:#1e90ff;cursor:pointer}
+.bgorb{width:200px;height:75px;background-color:#ff8c00;color:#fff;box-shadow:3px 3px 3px #999;font-weight:700}
+.bgorb:hover{background-color:orange;cursor:pointer}
+.bgbrb{width:200px;height:75px;background-color:#8b4513;color:#fff;box-shadow:3px 3px 3px #999;font-weight:700}
+.bgbrb:hover{background-color:peru;cursor:pointer}
+.bggrb{width:200px;height:75px;background-color:#006400;color:#fff;box-shadow:3px 3px 3px #999;font-weight:700}
+.bggrb:hover{background-color:green;cursor:pointer}
+.bgdb{width:200px;height:75px;background-color:#000;font-weight:700;color:#fff;box-shadow:3px 3px 3px #999}
+.bgdb:hover{background-color:#262626;cursor:pointer}
